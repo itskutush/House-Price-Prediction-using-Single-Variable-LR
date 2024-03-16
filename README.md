@@ -1,1 +1,1 @@
-# House-Price-Prediction-using-ingle-Variable-LR
+# House-Price-Prediction-using-Single-Variable-LR
